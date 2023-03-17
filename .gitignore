@@ -1,0 +1,6 @@
+__pycache__
+checkpoints
+resnet_models
+.ipynb_checkpoints/
+*.ipynb
+evaluation/
